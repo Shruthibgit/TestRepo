@@ -1,1 +1,2 @@
 Hi this is the new text file to test
+making some changes to this file
